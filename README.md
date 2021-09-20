@@ -1,11 +1,12 @@
 <h1><p align="center">Howdy! I'm Erik :)</h1></a></p>
 
-<p align="center">I'm a full stack web developer and recent Lambda School graduate.<br/> JavaScript - React - Node - SQL - Python - WordPress - Adobe Creative Suite .<br> I'm also a photographer, writer, musician, digital creator - if you need content: I'm here and ready to work.<br></p><br/>
+<p align="center">I'm a full stack web developer and recent Lambda School graduate working at Audiohook.<br/> JavaScript - React - Node - SQL - Python - WordPress - Adobe Creative Suite .<br> I'm also a photographer, writer, musician, digital creator - if you need content: send me an email :D.<br></p><br/>
 
 <summary><h2>What I'm up to:</h2></summary>
 
-- 🔭 I'm looking for work! portfolio coming soon!
-- 🌱 I’m currently digging deeper into Node.js and Python.
+- 🔭 I'm working from home for Audiohook. 
+- 🤠 portfolio coming soon!
+- 🌱 I’m currently digging deeper into Python, Flask, React-Native.
 - 🖋 Currently Writing: "Grande Vista: A History" - a history of the Texas Panhandle's Llano Estacado Canyon Lands and the Commanche Empire
 - 📝 Currently Editing: "Buckfire" by Jannet Louise-Turner Allen 
 - 💬 Ask me about Web Development, writing, cameras, history, pre-history, and mushrooms!
