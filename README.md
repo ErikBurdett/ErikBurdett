@@ -1,6 +1,6 @@
 <h1><p align="center">Howdy! I'm Erik :)</h1></a></p>
 
-<p align="center">I'm a full stack web developer and recent Lambda School graduate working at Audiohook.<br/> JavaScript - React - Node - SQL - Python - WordPress - Adobe Creative Suite .<br> I'm also a photographer, writer, musician, digital creator - if you need content: send me an email :D.<br></p><br/>
+<p align="center">I'm a full stack web developer and recent Lambda School graduate working at Audiohook.<br/> JavaScript - React & React-Native - Node - SQL - Flask - Python - WordPress - Adobe Creative Suite .<br> I'm also a photographer, writer, musician, digital creator - if you need content: send me an email :D.<br></p><br/>
 
 <summary><h2>What I'm up to:</h2></summary>
 
