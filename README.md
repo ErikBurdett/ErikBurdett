@@ -5,7 +5,7 @@
 <summary><h2>What I'm up to:</h2></summary>
 
 - 🤠 portfolio coming soon!
-- 🌱 I’m currently digging deeper into LAMP, Python, Flask, React-Native.
+- 🌱 I’m currently digging deeper into Python, Flask, React-Native.
 - 🖋 Currently Writing: "Grande Vista: A History" - a history of the Texas Panhandle's Llano Estacado Canyon Lands and the Commanche Empire
 - 📝 Currently Editing: "Buckfire" by Jannet Louise-Turner Allen 
 - 💬 Ask me about Web Development, writing, cameras, history, pre-history, and mushrooms!
