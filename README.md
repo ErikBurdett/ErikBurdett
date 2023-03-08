@@ -3,7 +3,7 @@
 <p align="center">I'm a full stack developer - if it's got docs I can learn it!<br/> JavaScript - React & React-Native - Salesforce Development - Node - SQL - Flask - Python - WordPress - Adobe Creative Suite .<br> I'm also a photographer, writer, musician, digital creator - if you need content: send me an email :D.<br></p><br/>
 
 <summary><h2>What I'm up to:</h2></summary>
-- 🧑‍💼 Currently Developing a full stack CRM Platform with a great team of engineers at KTBlack in Amarillo, Texas. 
+- 💼 Currently Developing a full stack CRM Platform with a great team of engineers at KTBlack in Amarillo, Texas. 
 - 🔍 Looking for development/IT work with a non-profit/mission oriented organization - I want to help affect positive change in our world :) 
 - 📷 Always booking creative direction / photography / drone footage/photography gigs - follow me here to see my work: https://www.instagram.com/e.a_burdett
 - 🌱 I’m currently digging deeper into Python, NGIX, Multi-Tenant & Microservice Architectures, NGINX, Flask, React-Native.
@@ -11,7 +11,6 @@
 - 📝 Currently Editing: "Buckfire" by Jannet Louise-Turner Allen 
 - 💬 Ask me about Web Development, writing, cameras, history, pre-history, and mycelium!
 - 📧 Contact me: erikaburdet@gmail.com
-
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
