@@ -7,6 +7,7 @@
 <summary><h2 style="text-align:center">What I'm up to:</h2></summary>
 <div style="text-align:center;">
   <ul style="display: inline-block; text-align: left;">
+    <li>💼 Working on a full stack application integration for 80/20 of Amarillo & Partnered Phillips 66 Refineries in West Texas.</li>
     <li>💼 Experience at High Growth Startups & Non-Profits developing custom & Full Stack systems & Solutions.</li>
     <li>🔍 Looking for development/IT work with a non-profit/mission oriented organization - I want to help affect positive change in our world :)</li>
     <li>📷 Always booking creative direction / photography / drone footage / photography gigs - follow me here to see my work: <a href="https://www.instagram.com/e.a_burdett">Instagram</a></li>
